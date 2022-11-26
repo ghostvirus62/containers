@@ -8,7 +8,7 @@ Linux
 - built using podman
 - based on ubuntu
 - runs [this](https://github.com/JogiJ62/MiniProjects/tree/main/TicTacToe) demo python script
-- The dockerfile is also available to use
+- The dockerfile is also available to use : https://github.com/JogiJ62/containers/blob/main/Dockerfile
 
 ## Changes
 You can use any official registry image to run this container.
